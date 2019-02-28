@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Weber et al., "Learning place cells, grid cells and invariances with excitatory and inhibitory plasticity". eLife, 2018. http://dx.doi.org/10.7554/eLife.34560
+
+
+
 # spatial_patterns
 
 Code for the simulations in Simon N Weber & Henning Sprekeler: 'Learning place cells, grid cells and invariances with excitatory and inhibitory plasticity'. eLife 2018.
